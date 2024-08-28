@@ -1,3 +1,5 @@
 # meu-repo-pi
 
-Fix uma alteração no meu repositorio
+Fiz uma alteração no meu repositorio
+
+Fiz uma alteração local
